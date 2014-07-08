@@ -35,7 +35,7 @@ Supported WordPress versions: 3.x
 1. Download the plugin zip file.
 1. Extract plugin zip file to your PC.
 1. Upload extracted file to wp-content/plugin directory.
-1. Go to Admin -> Plugins, find “Telerik Sitefinity to WordPress Migration” and click Activate.
+1. Go to Admin -> Plugins, find “Telerik Sitefinity to WordPress Migrator” and click Activate.
 When finished, you’ll be redirected to CMS2CMS website in order to complete your migration.
 
 == Frequently Asked Questions ==
