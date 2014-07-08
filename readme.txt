@@ -15,7 +15,7 @@ If you wish to switch from your current Telerik Sitefinity and WordPress sounds 
 
 Supported WordPress versions: 3.x 
 
-= Currently Supported Entities that can be imported to WordPress with the help of CMS2CMS Plugin are: =
+= Currently Supported Entities: =
 * pages
 * content images 
 * internal links
