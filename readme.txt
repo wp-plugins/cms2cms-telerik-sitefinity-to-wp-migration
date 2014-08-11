@@ -13,6 +13,9 @@ If you wish to switch from your current Telerik Sitefinity and WordPress sounds 
 
 If you wish to switch from your current Telerik Sitefinity and WordPress sounds like a perfect choice for you - CMS2CMS Migration Plugin will help you to go through the migration path smoothly and trouble-free. A full-scale migration takes up from 15 min (depending on your website size) and doesn’t expect any special skills to complete it. 
 
+= Video =
+[youtube https://www.youtube.com/watch?v=zw1tmQ5fTu4]
+
 *Supported WordPress versions:* 3.x (new software versions are constantly being added).
 
 = Currently Supported Entities: =
