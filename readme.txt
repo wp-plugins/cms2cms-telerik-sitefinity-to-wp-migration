@@ -1,6 +1,6 @@
 ﻿=== CMS2CMS: Telerik Sitefinity to WordPress Migrator  ===
 Contributors: cms2cms
-Tags: Telerik Sitefinity to WordPress, Telerik Sitefinity to WordPress migration, convert Telerik Sitefinity to WordPress, migrate Telerik Sitefinity to WordPress, images, plugin
+Tags: telerik sitefinity to wordpress, telerik sitefinity to wordpress migration, convert telerik sitefinity to wordpress, migrate telerik sitefinity to wordpress, plugin
 Requires at least: 3.0.0
 Tested up to: 3.9.1
 Stable tag: 3.6.2
