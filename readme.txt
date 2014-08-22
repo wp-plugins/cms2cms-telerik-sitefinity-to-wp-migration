@@ -34,6 +34,8 @@ If you wish to switch from your current Telerik Sitefinity and WordPress sounds 
 * High Speed - CMS2CMS migration takes approximately 15 min to complete the conversion (though it may depend on a website size).
 * Free Demo Available - CMS2CMS provides its users with a possibility to see the website migration process in action and to estimate the results.
 
+Find more info: http://www.cms2cms.com/supported-cms/sitefinity-to-wordpress-migration/
+
 *Note. The plugin installs the connection bridge on WordPress website, which is necessary for data exchange between Telerik Sitefinity and WordPress websites. Once activated, you’ll be redirected to CMS2CMS website in order to complete the migration.*
 
 == Installation ==
