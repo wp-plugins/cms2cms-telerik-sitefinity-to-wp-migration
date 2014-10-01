@@ -2,7 +2,7 @@
 Contributors: cms2cms
 Tags: telerik sitefinity to wordpress, telerik sitefinity to wordpress migration, convert telerik sitefinity to wordpress, migrate telerik sitefinity to wordpress, plugin
 Requires at least: 3.0.0
-Tested up to: 3.9.1
+Tested up to: 4.0
 Stable tag: 3.6.2
 License: GPLv2
 License URI: http://www.gnu.org/licenses/gpl-2.0.html
@@ -13,7 +13,7 @@ If you wish to switch from your current Telerik Sitefinity and WordPress sounds 
 
 If you wish to switch from your current Telerik Sitefinity and WordPress sounds like a perfect choice for you - CMS2CMS Migration Plugin will help you to go through the migration path smoothly and trouble-free. A full-scale migration takes up from 15 min (depending on your website size) and doesn’t expect any special skills to complete it. 
 
-*Supported WordPress versions:* 3.x (new software versions are constantly being added).
+*Supported WordPress versions:* 4.x (new software versions are constantly being added).
 
 * *There is Free Demo available (migration of limited number of pages).*
 * *Full Migration starts from $9.*
@@ -34,7 +34,7 @@ If you wish to switch from your current Telerik Sitefinity and WordPress sounds 
 * High Speed - CMS2CMS migration takes approximately 15 min to complete the conversion (though it may depend on a website size).
 * Free Demo Available - CMS2CMS provides its users with a possibility to see the website migration process in action and to estimate the results.
 
-Find more info: http://www.cms2cms.com/supported-cms/sitefinity-to-wordpress-migration/
+Find more info: http://www.cms2cms.com/supported-cms/sitefinity-to-wordpress-migration/?utm_source=Sitefinity&utm_medium=Link&utm_campaign=WordPress_plugins
 
 *Note. The plugin installs the connection bridge on WordPress website, which is necessary for data exchange between Telerik Sitefinity and WordPress websites. Once activated, you’ll be redirected to CMS2CMS website in order to complete the migration.*
 
