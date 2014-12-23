@@ -36,10 +36,10 @@ If you wish to switch from your current Telerik Sitefinity and WordPress sounds 
 
 Find more info: http://www.cms2cms.com/supported-cms/sitefinity-to-wordpress-migration/?utm_source=Sitefinity&utm_medium=Link&utm_campaign=WordPress_plugins
 
-Our Support Team is available via phone, Live Chat and Email (Technical support) during the following hours:
-Phone support – 24 hours a day, Monday – Friday
-Live Chat support – 24 hours a day, Monday – Friday
-Technical support – from 11 am to 7 pm GMT +2, Monday – Friday
+= Our Support Team is available via phone, Live Chat and Email (Technical support) during the following hours: = 
+- Phone support – 24 hours a day, Monday – Friday
+- Live Chat support – 24 hours a day, Monday – Friday
+- Technical support – from 11 am to 7 pm GMT +2, Monday – Friday
 
 *Note. The plugin installs the connection bridge on WordPress website, which is necessary for data exchange between Telerik Sitefinity and WordPress websites. Once activated, you’ll be redirected to CMS2CMS website in order to complete the migration.*
 
