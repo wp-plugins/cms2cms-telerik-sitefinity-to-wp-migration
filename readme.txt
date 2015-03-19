@@ -27,7 +27,9 @@ If you wish to switch from your current Telerik Sitefinity and WordPress sounds 
 * *internal links*
 
 = Additional Migration Options: =
-* clear WordPress data before migration
+- clear WordPress data before migration
+- 301 redirects from old URLs to new URLs
+- forms
 
 = Features of Automated Migration: =
 * Ease of Use - CMS2CMS is tailor made for each client, that is suitable for both web developers and average users to work with. 
